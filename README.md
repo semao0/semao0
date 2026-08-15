@@ -20,7 +20,18 @@
 
 <h3 align="center">Core Stack</h3>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cs,kotlin,fastapi,dotnet,grpc&theme=dark" alt="Core Stack">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cs,kotlin,spring,fastapi,dotnet,grpc&theme=dark" alt="Core Stack">
+</p>
+
+<h3 align="center">AI / LLM</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-111111?style=flat-square" alt="LangGraph">
+  <img src="https://img.shields.io/badge/Semantic_Kernel-111111?style=flat-square" alt="Semantic Kernel">
+  <img src="https://img.shields.io/badge/FastMCP-111111?style=flat-square" alt="FastMCP">
+  <img src="https://img.shields.io/badge/Agent_Harness-111111?style=flat-square" alt="Agent Harness">
+  <img src="https://img.shields.io/badge/pgvector-111111?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector">
+  <img src="https://img.shields.io/badge/Chroma-111111?style=flat-square" alt="Chroma">
 </p>
 
 <h3 align="center">Data & Brokers</h3>
