@@ -30,8 +30,6 @@
   <img src="https://img.shields.io/badge/Semantic_Kernel-111111?style=flat-square" alt="Semantic Kernel">
   <img src="https://img.shields.io/badge/FastMCP-111111?style=flat-square" alt="FastMCP">
   <img src="https://img.shields.io/badge/Agent_Harness-111111?style=flat-square" alt="Agent Harness">
-  <img src="https://img.shields.io/badge/pgvector-111111?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector">
-  <img src="https://img.shields.io/badge/Chroma-111111?style=flat-square" alt="Chroma">
 </p>
 
 <h3 align="center">Data & Brokers</h3>
@@ -41,6 +39,8 @@
   <img src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Kafka-111111?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka">
   <img src="https://img.shields.io/badge/RabbitMQ-111111?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+  <img src="https://img.shields.io/badge/pgvector-111111?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector">
+  <img src="https://img.shields.io/badge/Chroma-111111?style=flat-square" alt="Chroma">
 </p>
 
 <h3 align="center">DevOps & Architecture</h3>
