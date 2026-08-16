@@ -1,7 +1,7 @@
 <h1 align="center">Semen Belousov</h1>
 
 <p align="center">
-  <b>Backend & AI Engineer (Python, C#, Kotlin) | Microservices, LLM Integration & Distributed Systems</b>
+  <b>Backend & AI Engineer | Microservices, LLM Integration & Distributed Systems</b>
   <br><br>
   Building distributed systems, event-driven architectures, and integrating LLM solutions into production. Solving high-load challenges and building fault-tolerant processes.
 </p>
@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/GitLab_CI-111111?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab">
   <img src="https://img.shields.io/badge/Traefik-111111?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik">
-  <img src="https://img.shields.io/badge/Nginx-111111?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
   <img src="https://img.shields.io/badge/Prometheus-111111?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
   <img src="https://img.shields.io/badge/Grafana-111111?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
   <img src="https://img.shields.io/badge/CQRS-111111?style=flat-square" alt="CQRS">
